@@ -1,4 +1,5 @@
 Simply the most basic concept required for understanding machine learning technologies and tools.
+
 -> Pandas
 
 -> Numpy
@@ -7,4 +8,4 @@ Simply the most basic concept required for understanding machine learning techno
 
 -> Scikitlearn
 
-and programming language used is Python. Use of various models and experimenting with data to a get clear picture.
+and programming language used is Python. Use of various models and experimenting with data to get a clear picture.
